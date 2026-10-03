@@ -1,0 +1,31 @@
+Location_ID,City,State,Country,Region,Latitude,Longitude
+L001,Dallas,Texas,USA,South Central,32.7767,-96.797
+L002,Houston,Texas,USA,South Central,29.7604,-95.3698
+L003,Austin,Texas,USA,South Central,30.2672,-97.7431
+L004,San Antonio,Texas,USA,South Central,29.4241,-98.4936
+L005,Atlanta,Georgia,USA,Southeast,33.749,-84.388
+L006,Miami,Florida,USA,Southeast,25.7617,-80.1918
+L007,Orlando,Florida,USA,Southeast,28.5383,-81.3792
+L008,Jacksonville,Florida,USA,Southeast,30.3322,-81.6557
+L009,Charlotte,North Carolina,USA,Southeast,35.2271,-80.8431
+L010,Nashville,Tennessee,USA,Southeast,36.1627,-86.7816
+L011,Chicago,Illinois,USA,Midwest,41.8781,-87.6298
+L012,Detroit,Michigan,USA,Midwest,42.3314,-83.0458
+L013,Indianapolis,Indiana,USA,Midwest,39.7684,-86.1581
+L014,Columbus,Ohio,USA,Midwest,39.9612,-82.9988
+L015,Cleveland,Ohio,USA,Midwest,41.4993,-81.6944
+L016,New York,New York,USA,Northeast,40.7128,-74.006
+L017,Boston,Massachusetts,USA,Northeast,42.3601,-71.0589
+L018,Philadelphia,Pennsylvania,USA,Northeast,39.9526,-75.1652
+L019,Washington,District of Columbia,USA,Northeast,38.9072,-77.0369
+L020,Baltimore,Maryland,USA,Northeast,39.2904,-76.6122
+L021,Los Angeles,California,USA,West,34.0522,-118.2437
+L022,San Diego,California,USA,West,32.7157,-117.1611
+L023,San Francisco,California,USA,West,37.7749,-122.4194
+L024,Sacramento,California,USA,West,38.5816,-121.4944
+L025,Seattle,Washington,USA,West,47.6062,-122.3321
+L026,Portland,Oregon,USA,West,45.5152,-122.6784
+L027,Denver,Colorado,USA,Mountain,39.7392,-104.9903
+L028,Phoenix,Arizona,USA,Mountain,33.4484,-112.074
+L029,Las Vegas,Nevada,USA,Mountain,36.1699,-115.1398
+L030,Salt Lake City,Utah,USA,Mountain,40.7608,-111.891
