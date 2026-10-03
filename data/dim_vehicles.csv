@@ -1,0 +1,151 @@
+Vehicle_ID,Vehicle_Type_ID,Model_Year,Fuel_Type,Vehicle_Type,Category,Capacity_KG,Efficiency_L_per_100KM
+VH0001,V004,2024,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0002,V002,2018,Diesel,Box Truck,Truck,5000,0.62
+VH0003,V001,2024,Gasoline,Sprinter Van,Van,1000,0.72
+VH0004,V002,2021,Gasoline,Box Truck,Truck,5000,0.62
+VH0005,V004,2019,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0006,V001,2022,Diesel,Sprinter Van,Van,1000,0.72
+VH0007,V001,2022,Diesel,Sprinter Van,Van,1000,0.72
+VH0008,V005,2018,Diesel,Flatbed,Truck,15000,0.5
+VH0009,V001,2018,Diesel,Sprinter Van,Van,1000,0.72
+VH0010,V002,2025,Gasoline,Box Truck,Truck,5000,0.62
+VH0011,V005,2018,Gasoline,Flatbed,Truck,15000,0.5
+VH0012,V002,2026,Diesel,Box Truck,Truck,5000,0.62
+VH0013,V002,2019,Diesel,Box Truck,Truck,5000,0.62
+VH0014,V005,2020,Diesel,Flatbed,Truck,15000,0.5
+VH0015,V004,2018,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0016,V002,2025,Diesel,Box Truck,Truck,5000,0.62
+VH0017,V002,2024,Diesel,Box Truck,Truck,5000,0.62
+VH0018,V005,2022,Gasoline,Flatbed,Truck,15000,0.5
+VH0019,V003,2019,Gasoline,Cargo Truck,Truck,12000,0.55
+VH0020,V003,2026,Diesel,Cargo Truck,Truck,12000,0.55
+VH0021,V004,2023,Electric,Car Carrier,Vehicle Hauler,18000,0.48
+VH0022,V004,2024,Electric,Car Carrier,Vehicle Hauler,18000,0.48
+VH0023,V003,2026,Gasoline,Cargo Truck,Truck,12000,0.55
+VH0024,V002,2020,Gasoline,Box Truck,Truck,5000,0.62
+VH0025,V002,2023,Diesel,Box Truck,Truck,5000,0.62
+VH0026,V005,2021,Diesel,Flatbed,Truck,15000,0.5
+VH0027,V003,2020,Diesel,Cargo Truck,Truck,12000,0.55
+VH0028,V001,2026,Electric,Sprinter Van,Van,1000,0.72
+VH0029,V004,2022,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0030,V001,2018,Electric,Sprinter Van,Van,1000,0.72
+VH0031,V002,2024,Diesel,Box Truck,Truck,5000,0.62
+VH0032,V003,2026,Gasoline,Cargo Truck,Truck,12000,0.55
+VH0033,V003,2025,Gasoline,Cargo Truck,Truck,12000,0.55
+VH0034,V004,2021,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0035,V005,2018,Electric,Flatbed,Truck,15000,0.5
+VH0036,V004,2022,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0037,V004,2020,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0038,V005,2023,Gasoline,Flatbed,Truck,15000,0.5
+VH0039,V001,2020,Diesel,Sprinter Van,Van,1000,0.72
+VH0040,V002,2018,Gasoline,Box Truck,Truck,5000,0.62
+VH0041,V005,2022,Diesel,Flatbed,Truck,15000,0.5
+VH0042,V002,2024,Gasoline,Box Truck,Truck,5000,0.62
+VH0043,V002,2025,Diesel,Box Truck,Truck,5000,0.62
+VH0044,V001,2018,Diesel,Sprinter Van,Van,1000,0.72
+VH0045,V003,2020,Electric,Cargo Truck,Truck,12000,0.55
+VH0046,V001,2020,Diesel,Sprinter Van,Van,1000,0.72
+VH0047,V002,2023,Diesel,Box Truck,Truck,5000,0.62
+VH0048,V002,2026,Diesel,Box Truck,Truck,5000,0.62
+VH0049,V002,2022,Diesel,Box Truck,Truck,5000,0.62
+VH0050,V001,2018,Electric,Sprinter Van,Van,1000,0.72
+VH0051,V004,2022,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0052,V003,2023,Diesel,Cargo Truck,Truck,12000,0.55
+VH0053,V001,2022,Diesel,Sprinter Van,Van,1000,0.72
+VH0054,V002,2024,Diesel,Box Truck,Truck,5000,0.62
+VH0055,V005,2020,Gasoline,Flatbed,Truck,15000,0.5
+VH0056,V004,2024,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0057,V003,2023,Diesel,Cargo Truck,Truck,12000,0.55
+VH0058,V005,2022,Diesel,Flatbed,Truck,15000,0.5
+VH0059,V004,2021,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0060,V002,2025,Gasoline,Box Truck,Truck,5000,0.62
+VH0061,V005,2026,Gasoline,Flatbed,Truck,15000,0.5
+VH0062,V002,2024,Gasoline,Box Truck,Truck,5000,0.62
+VH0063,V005,2025,Diesel,Flatbed,Truck,15000,0.5
+VH0064,V003,2021,Diesel,Cargo Truck,Truck,12000,0.55
+VH0065,V005,2026,Diesel,Flatbed,Truck,15000,0.5
+VH0066,V004,2026,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0067,V003,2021,Gasoline,Cargo Truck,Truck,12000,0.55
+VH0068,V003,2025,Diesel,Cargo Truck,Truck,12000,0.55
+VH0069,V002,2023,Diesel,Box Truck,Truck,5000,0.62
+VH0070,V001,2020,Diesel,Sprinter Van,Van,1000,0.72
+VH0071,V004,2019,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0072,V003,2019,Gasoline,Cargo Truck,Truck,12000,0.55
+VH0073,V005,2021,Gasoline,Flatbed,Truck,15000,0.5
+VH0074,V002,2024,Gasoline,Box Truck,Truck,5000,0.62
+VH0075,V004,2018,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0076,V002,2021,Diesel,Box Truck,Truck,5000,0.62
+VH0077,V002,2020,Diesel,Box Truck,Truck,5000,0.62
+VH0078,V004,2023,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0079,V005,2019,Diesel,Flatbed,Truck,15000,0.5
+VH0080,V003,2026,Diesel,Cargo Truck,Truck,12000,0.55
+VH0081,V005,2025,Electric,Flatbed,Truck,15000,0.5
+VH0082,V004,2022,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0083,V003,2018,Gasoline,Cargo Truck,Truck,12000,0.55
+VH0084,V004,2021,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0085,V001,2025,Gasoline,Sprinter Van,Van,1000,0.72
+VH0086,V002,2018,Diesel,Box Truck,Truck,5000,0.62
+VH0087,V002,2019,Diesel,Box Truck,Truck,5000,0.62
+VH0088,V004,2025,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0089,V002,2019,Gasoline,Box Truck,Truck,5000,0.62
+VH0090,V001,2025,Diesel,Sprinter Van,Van,1000,0.72
+VH0091,V003,2023,Diesel,Cargo Truck,Truck,12000,0.55
+VH0092,V002,2021,Gasoline,Box Truck,Truck,5000,0.62
+VH0093,V003,2026,Gasoline,Cargo Truck,Truck,12000,0.55
+VH0094,V004,2026,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0095,V004,2026,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0096,V002,2023,Gasoline,Box Truck,Truck,5000,0.62
+VH0097,V004,2024,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0098,V002,2026,Diesel,Box Truck,Truck,5000,0.62
+VH0099,V004,2018,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0100,V002,2023,Diesel,Box Truck,Truck,5000,0.62
+VH0101,V001,2018,Diesel,Sprinter Van,Van,1000,0.72
+VH0102,V001,2022,Electric,Sprinter Van,Van,1000,0.72
+VH0103,V003,2026,Diesel,Cargo Truck,Truck,12000,0.55
+VH0104,V004,2024,Electric,Car Carrier,Vehicle Hauler,18000,0.48
+VH0105,V005,2019,Gasoline,Flatbed,Truck,15000,0.5
+VH0106,V001,2026,Gasoline,Sprinter Van,Van,1000,0.72
+VH0107,V004,2026,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0108,V004,2026,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0109,V004,2022,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0110,V002,2024,Electric,Box Truck,Truck,5000,0.62
+VH0111,V004,2018,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0112,V003,2023,Electric,Cargo Truck,Truck,12000,0.55
+VH0113,V002,2021,Diesel,Box Truck,Truck,5000,0.62
+VH0114,V005,2024,Diesel,Flatbed,Truck,15000,0.5
+VH0115,V005,2025,Gasoline,Flatbed,Truck,15000,0.5
+VH0116,V001,2020,Gasoline,Sprinter Van,Van,1000,0.72
+VH0117,V001,2026,Gasoline,Sprinter Van,Van,1000,0.72
+VH0118,V002,2023,Electric,Box Truck,Truck,5000,0.62
+VH0119,V002,2018,Gasoline,Box Truck,Truck,5000,0.62
+VH0120,V003,2021,Diesel,Cargo Truck,Truck,12000,0.55
+VH0121,V001,2022,Gasoline,Sprinter Van,Van,1000,0.72
+VH0122,V004,2022,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0123,V002,2022,Diesel,Box Truck,Truck,5000,0.62
+VH0124,V001,2022,Diesel,Sprinter Van,Van,1000,0.72
+VH0125,V005,2026,Diesel,Flatbed,Truck,15000,0.5
+VH0126,V002,2026,Diesel,Box Truck,Truck,5000,0.62
+VH0127,V004,2026,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0128,V003,2024,Electric,Cargo Truck,Truck,12000,0.55
+VH0129,V005,2021,Diesel,Flatbed,Truck,15000,0.5
+VH0130,V004,2026,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0131,V001,2020,Gasoline,Sprinter Van,Van,1000,0.72
+VH0132,V004,2024,Gasoline,Car Carrier,Vehicle Hauler,18000,0.48
+VH0133,V002,2020,Gasoline,Box Truck,Truck,5000,0.62
+VH0134,V002,2024,Gasoline,Box Truck,Truck,5000,0.62
+VH0135,V001,2022,Diesel,Sprinter Van,Van,1000,0.72
+VH0136,V002,2019,Gasoline,Box Truck,Truck,5000,0.62
+VH0137,V002,2020,Diesel,Box Truck,Truck,5000,0.62
+VH0138,V005,2020,Gasoline,Flatbed,Truck,15000,0.5
+VH0139,V002,2026,Gasoline,Box Truck,Truck,5000,0.62
+VH0140,V002,2021,Diesel,Box Truck,Truck,5000,0.62
+VH0141,V002,2025,Gasoline,Box Truck,Truck,5000,0.62
+VH0142,V003,2019,Diesel,Cargo Truck,Truck,12000,0.55
+VH0143,V005,2026,Gasoline,Flatbed,Truck,15000,0.5
+VH0144,V001,2024,Diesel,Sprinter Van,Van,1000,0.72
+VH0145,V005,2019,Diesel,Flatbed,Truck,15000,0.5
+VH0146,V005,2023,Diesel,Flatbed,Truck,15000,0.5
+VH0147,V002,2026,Diesel,Box Truck,Truck,5000,0.62
+VH0148,V004,2025,Diesel,Car Carrier,Vehicle Hauler,18000,0.48
+VH0149,V001,2023,Diesel,Sprinter Van,Van,1000,0.72
+VH0150,V005,2018,Diesel,Flatbed,Truck,15000,0.5

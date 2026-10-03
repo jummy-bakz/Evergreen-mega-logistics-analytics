@@ -1,0 +1,20 @@
+Table,Field,Business Definition,Category
+fact_shipments,Shipment_ID,Unique shipment identifier,Key
+fact_shipments,Order_Date,Date shipment/order was created,Date
+fact_shipments,Origin_ID / Destination_ID,Foreign keys to location dimension,Relationship
+fact_shipments,Carrier_ID,Foreign key to carrier dimension,Relationship
+fact_shipments,Supplier_ID,Foreign key to supplier dimension,Relationship
+fact_shipments,Vehicle_ID,Foreign key to vehicle dimension,Relationship
+fact_shipments,Distance_KM,Estimated road distance between origin and destination,Metric
+fact_shipments,Matching_Time_Min,Minutes from booking to carrier assignment,KPI
+fact_shipments,On_Time_Flag,1 if actual delivery is on/before expected delivery,KPI
+fact_shipments,SLA_Flag,1 if delivery meets SLA rules,KPI
+fact_shipments,Damage_Flag,1 if shipment arrived damaged,Quality
+fact_shipments,Total_Delay_Hours,"Sum of pickup, transit and unloading delays",KPI
+fact_shipments,Total_Cost_USD,Total logistics cost,Financial
+fact_shipments,Revenue_USD,Shipment revenue,Financial
+fact_shipments,Gross_Profit_USD,Revenue minus total cost,Financial
+fact_shipments,Gross_Margin_Pct,Gross profit as a percentage of revenue,Financial
+fact_shipments,Estimated_Lost_Revenue_USD,Estimated financial impact associated with late delivery,Financial
+fact_shipments,Lead_Time_Days,Order creation to actual delivery,KPI
+fact_shipments,Cost_per_KM_USD,Total cost divided by distance,Unit Economics
