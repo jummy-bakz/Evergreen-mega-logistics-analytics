@@ -11,4 +11,7 @@ The report consists of four interactive pages:
 
 The dashboard provides visibility into shipment volumes, delivery performance, supplier reliability, logistics expenditure, route profitability, and operational improvement opportunities.
 
-The interactive report link will be added here once publishing is complete.
+
+The downloadable Power BI report (`.pbix`) is available in this folder.
+
+Download the PBIX file and open it using **Microsoft Power BI Desktop** to explore the dashboards, filters, data model, and DAX measures.
