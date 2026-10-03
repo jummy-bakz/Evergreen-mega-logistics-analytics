@@ -107,7 +107,7 @@ These are baseline results for the complete dataset. Dashboard values may change
 * `python/` — Data cleaning, validation, and analysis notebook.
 * `powerbi/` — Dashboard screenshots,pdf and PBIX.
 * `documentation/` — Architecture diagram and supporting documentation.
-* `data/` — Dataset documentation.
+* `data/` — Complete synthetic dataset, data dictionary, and dataset documentation.
 
 ## Business Value
 
