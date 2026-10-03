@@ -105,9 +105,9 @@ These are baseline results for the complete dataset. Dashboard values may change
 
 * `mysql/` — Database schema and SQL analysis scripts.
 * `python/` — Data cleaning, validation, and analysis notebook.
-* `powerbi/` — Dashboard screenshots and report resources.
+* `powerbi/` — Dashboard screenshots,pdf and PBIX.
 * `documentation/` — Architecture diagram and supporting documentation.
-* `data/` — Dataset documentation and approved sample data.
+* `data/` — Dataset documentation.
 
 ## Business Value
 
