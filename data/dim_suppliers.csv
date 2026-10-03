@@ -1,0 +1,41 @@
+Supplier_ID,Supplier_Name,Supplier_Category,Risk_Tier,Base_SLA_Rate,SLA_Target_Pct
+S001,Supplier 01,Fuel & Energy,Low,0.9488272913941111,95
+S002,Supplier 02,Vehicle Parts,Medium,0.9396152420389678,93
+S003,Supplier 03,Fuel & Energy,Medium,0.9384069220600564,93
+S004,Supplier 04,Maintenance,Low,0.964601700964987,95
+S005,Supplier 05,Packaging,High,0.9332246543418699,90
+S006,Supplier 06,Maintenance,Medium,0.9520075532167311,93
+S007,Supplier 07,Maintenance,Low,0.9654075245556915,95
+S008,Supplier 08,Fuel & Energy,Low,0.9602474254977377,95
+S009,Supplier 09,Packaging,Low,0.9720601430193552,95
+S010,Supplier 10,Maintenance,Low,0.9630991824540027,95
+S011,Supplier 11,Fuel & Energy,Low,0.9526841740089643,95
+S012,Supplier 12,Packaging,High,0.9018141928389878,90
+S013,Supplier 13,Maintenance,High,0.8808422298831301,90
+S014,Supplier 14,Fuel & Energy,Low,0.9851230133644528,95
+S015,Supplier 15,Maintenance,Medium,0.9225729995533343,93
+S016,Supplier 16,Vehicle Parts,Medium,0.9740195651043794,93
+S017,Supplier 17,Fuel & Energy,Low,0.995,95
+S018,Supplier 18,Fuel & Energy,Low,0.9719376013759519,95
+S019,Supplier 19,Fuel & Energy,High,0.9206991588593287,90
+S020,Supplier 20,Maintenance,Low,0.9868520313703899,95
+S021,Supplier 21,Fuel & Energy,Low,0.9603752666668894,95
+S022,Supplier 22,Vehicle Parts,Low,0.9698895168614331,95
+S023,Supplier 23,Vehicle Parts,Low,0.9547824782268938,95
+S024,Supplier 24,Packaging,Low,0.9510121094635408,95
+S025,Supplier 25,Packaging,Low,0.9649573397689561,95
+S026,Supplier 26,Vehicle Parts,Medium,0.9584954915350973,93
+S027,Supplier 27,Packaging,Low,0.965767013005833,95
+S028,Supplier 28,Vehicle Parts,Low,0.9628413700785956,95
+S029,Supplier 29,Vehicle Parts,Medium,0.9385105055765687,93
+S030,Supplier 30,Fuel & Energy,Medium,0.9363989502230784,93
+S031,Supplier 31,Packaging,High,0.9318693656687504,90
+S032,Supplier 32,Fuel & Energy,Low,0.9706299411140341,95
+S033,Supplier 33,Packaging,High,0.9031420230695142,90
+S034,Supplier 34,Warehouse Supplies,Low,0.954663594539851,95
+S035,Supplier 35,Maintenance,High,0.908994284302416,90
+S036,Supplier 36,Maintenance,Medium,0.9528622475027172,93
+S037,Supplier 37,Maintenance,Low,0.9663124705356315,95
+S038,Supplier 38,Warehouse Supplies,Medium,0.9685969277153055,93
+S039,Supplier 39,Packaging,Low,0.976636908501752,95
+S040,Supplier 40,Maintenance,Medium,0.9377845318935216,93
